@@ -1,7 +1,5 @@
 --CAU 6
 
-CONN BTVN_1/btvn1;
-
 --Tao ham chinh sach 1 - Tra ve ma nhan vien
 
 CREATE OR REPLACE FUNCTION THONG_TIN_PHONG_NV_1(P_SCHEMA VARCHAR2, P_OBJ VARCHAR2)
